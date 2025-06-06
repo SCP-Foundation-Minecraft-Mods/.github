@@ -8,7 +8,7 @@ Whether you’re an explorer, builder, or modder, you’ll find tools, entities,
 ---
 
 ## 🌟 Featured Projects
-- **[SCP 002](https://github.com/SCP-Foundation-Minecraft-Mods/scp002)** — SCP 002 - living room
+- **[SCP 002](https://github.com/SCP-Foundation-Minecraft-Mods/scp-002)** — SCP 002 - living room
 
 ---
 
