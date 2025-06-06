@@ -1,0 +1,19 @@
+name: "💡 Feature Request"
+description: Suggest a new idea for an SCP mod
+title: "[Feature] <summary>"
+labels: [enhancement]
+body:
+  - type: input
+    id: mod
+    attributes:
+      label: Mod Name
+      placeholder: e.g. SCP-173
+  - type: textarea
+    id: idea
+    attributes:
+      label: Describe your idea
+      placeholder: What should this feature do?
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Why it matters
